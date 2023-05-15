@@ -13,8 +13,62 @@
             "icon": "src/assets/backend.png"
         },
         {
-            "title": "BI Specialist",
+            "title": "BI Developer",
             "icon": "src/assets/creator.png"
+        }
+    ],
+    "technologies": [
+        {
+          "name": "Python",
+          "icon": "src/assets/tech/python.png"
+        },
+        {
+          "name": "My SQL",
+          "icon": "src/assets/tech/mysql.png"
+        },
+        {
+          "name": "Git",
+          "icon": "src/assets/tech/git.png"
+        },
+        {
+          "name": "MS Excel",
+          "icon": "src/assets/tech/excel.png"
+        },
+        {
+          "name": "Power BI",
+          "icon": "src/assets/tech/powerbi.png"
+        },
+        {
+          "name": "Sci-Kit Learn",
+          "icon": "src/assets/tech/sklearn.png"
+        },
+        {
+          "name": "Spark",
+          "icon": "src/assets/tech/spark.png"
+        },
+        {
+          "name": "Mongo DB",
+          "icon": "src/assets/tech/mongodb.png"
+        },
+        {
+          "name": "Pandas",
+          "icon": "src/assets/tech/pandas.png"
+        },
+        {
+          "name": "Matplotlib",
+          "icon": "src/assets/tech/matplotlib.png"
+        },
+        {
+          "name": "Plotly",
+          "icon": "src/assets/tech/plotly.png"
+        },
+        {
+          "name": "Seaborn",
+          "icon": "src/assets/tech/seaborn.png"
+        },
+        {
+          "name": "Big Query",
+          "icon": "src/assets/tech/bigquery.png"
         }
     ],
     "profile": {
