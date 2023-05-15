@@ -1,0 +1,25 @@
+{
+    "services": [
+        {
+            "title": "Data Scientist",
+            "icon": "./web.png",
+        },
+        {
+            "title": "Data Analyst",
+            "icon": "./mobile.png",
+        },
+        {
+            "title": "Data Engineer",
+            "icon": "./backend.png",
+        },
+        {
+            "title": "BI Specialist",
+            "icon": "./creator.png",
+        }
+    ],
+
+    
+    "profile": {
+        "name": "typicode"
+    }
+}
