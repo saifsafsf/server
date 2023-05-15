@@ -99,6 +99,68 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "IMDb Data Integration with Talend",
+      "description": "Uses Rapid API to fetch IMDb data, filters, & uploads the data in different tables in a MySQL Database, in one click using Talend.",
+      "tags": [
+        {
+          "name": "talend",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "imdb",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "rapidapi",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "src/assets/IMDb.png",
+      "source_code_link": "https://github.com/saifsafsf/IMDb-Data-Integration-with-Talend"
+    },
+    {
+      "name": "EDAs",
+      "description": "In-depth analysis on real life data using Pandas, visualization tools, SQL, MongoDB, many ML models, defining ETL classes & web pages to interact with the visualizations.",
+      "tags": [
+        {
+          "name": "api",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "etl",
+          "color": "pink-text-gradient"
+        },
+        {
+          "name": "machine-learning",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "database",
+          "color": "blue-text-gradient"
+        }
+      ],
+      "image": "src/assets/eda.png",
+      "source_code_link": "https://github.com/saifsafsf/EDAs"
+    },
+    {
+      "name": "Maven Works Dashboard",
+      "description": "A dashboard for a fictional grocery store operational in USA, Cananda & Mexico selling over 1500 products between the years 1997 & 1998.",
+      "tags": [
+        {
+          "name": "powerbi",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "data-visualization",
+          "color": "green-text-gradient"
+        }
+      ],
+      "image": "src/assets/powerbi.png",
+      "source_code_link": "https://github.com/saifsafsf/Maven-Works-Dashboard"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
