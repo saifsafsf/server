@@ -1,77 +1,105 @@
 {
-    "services": [
-        {
-            "title": "Data Scientist",
-            "icon": "src/assets/web.png"
-        },
-        {
-            "title": "Data Analyst",
-            "icon": "src/assets/mobile.png"
-        },
-        {
-            "title": "Data Engineer",
-            "icon": "src/assets/backend.png"
-        },
-        {
-            "title": "BI Developer",
-            "icon": "src/assets/creator.png"
-        }
-    ],
-    "technologies": [
-        {
-          "name": "Python",
-          "icon": "src/assets/tech/python.png"
-        },
-        {
-          "name": "My SQL",
-          "icon": "src/assets/tech/mysql.png"
-        },
-        {
-          "name": "Git",
-          "icon": "src/assets/tech/git.png"
-        },
-        {
-          "name": "MS Excel",
-          "icon": "src/assets/tech/excel.png"
-        },
-        {
-          "name": "Power BI",
-          "icon": "src/assets/tech/powerbi.png"
-        },
-        {
-          "name": "Sci-Kit Learn",
-          "icon": "src/assets/tech/sklearn.png"
-        },
-        {
-          "name": "Spark",
-          "icon": "src/assets/tech/spark.png"
-        },
-        {
-          "name": "Mongo DB",
-          "icon": "src/assets/tech/mongodb.png"
-        },
-        {
-          "name": "Pandas",
-          "icon": "src/assets/tech/pandas.png"
-        },
-        {
-          "name": "Matplotlib",
-          "icon": "src/assets/tech/matplotlib.png"
-        },
-        {
-          "name": "Plotly",
-          "icon": "src/assets/tech/plotly.png"
-        },
-        {
-          "name": "Seaborn",
-          "icon": "src/assets/tech/seaborn.png"
-        },
-        {
-          "name": "Big Query",
-          "icon": "src/assets/tech/bigquery.png"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
+  "services": [
+    {
+      "title": "Data Scientist",
+      "icon": "src/assets/web.png"
+    },
+    {
+      "title": "Data Analyst",
+      "icon": "src/assets/mobile.png"
+    },
+    {
+      "title": "Data Engineer",
+      "icon": "src/assets/backend.png"
+    },
+    {
+      "title": "BI Developer",
+      "icon": "src/assets/creator.png"
     }
+  ],
+  "technologies": [
+    {
+      "name": "Python",
+      "icon": "src/assets/tech/python.png"
+    },
+    {
+      "name": "My SQL",
+      "icon": "src/assets/tech/mysql.png"
+    },
+    {
+      "name": "Git",
+      "icon": "src/assets/tech/git.png"
+    },
+    {
+      "name": "MS Excel",
+      "icon": "src/assets/tech/excel.png"
+    },
+    {
+      "name": "Power BI",
+      "icon": "src/assets/tech/powerbi.png"
+    },
+    {
+      "name": "Sci-Kit Learn",
+      "icon": "src/assets/tech/sklearn.png"
+    },
+    {
+      "name": "Spark",
+      "icon": "src/assets/tech/spark.png"
+    },
+    {
+      "name": "Mongo DB",
+      "icon": "src/assets/tech/mongodb.png"
+    },
+    {
+      "name": "Pandas",
+      "icon": "src/assets/tech/pandas.png"
+    },
+    {
+      "name": "Matplotlib",
+      "icon": "src/assets/tech/matplotlib.png"
+    },
+    {
+      "name": "Plotly",
+      "icon": "src/assets/tech/plotly.png"
+    },
+    {
+      "name": "Seaborn",
+      "icon": "src/assets/tech/seaborn.png"
+    },
+    {
+      "name": "Big Query",
+      "icon": "src/assets/tech/bigquery.png"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Research Intern",
+      "company_name": "Optical Networks & Technologies Lab",
+      "icon": "src/assets/company/ont.png",
+      "iconBg": "#E6DEDD",
+      "date": "Jun 2022 - Oct 2022",
+      "points": [
+        "Used Spark to explore & analyze .csv files containing parsed .pcap data",
+        "Implemented Spark Streaming to analyze .pcap data in batches, each including 1 Million packets",
+        "Executed analysis on remote servers using PySpark",
+        "Modified Scapy to parse .pcap files to dataframes, increasing efficiency by 1.5x"
+      ]
+    },
+    {
+      "title": "Data Analysis Intern",
+      "company_name": "xFlow Research Inc.",
+      "icon": "src/assets/company/xflow.png",
+      "iconBg": "#E6DEDD",
+      "date": "Jun 2022 - Sep 2022",
+      "points": [
+        "Parsed .pcap files containing 73 Million packets to .csv",
+        "Used multi-threading to increase processing speed by 2x",
+        "Used Pandas, Matplotlib, Seaborn & Plotly to explore & analyze these .csv files",
+        "Created interactive reports & dashboards on Power BI using these .csv files"
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
