@@ -2,19 +2,19 @@
     "services": [
         {
             "title": "Data Scientist",
-            "icon": "./web.png"
+            "icon": "src/assets/web.png"
         },
         {
             "title": "Data Analyst",
-            "icon": "./mobile.png"
+            "icon": "src/assets/mobile.png"
         },
         {
             "title": "Data Engineer",
-            "icon": "./backend.png"
+            "icon": "src/assets/backend.png"
         },
         {
             "title": "BI Specialist",
-            "icon": "./creator.png"
+            "icon": "src/assets/creator.png"
         }
     ],
     "profile": {
