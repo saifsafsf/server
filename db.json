@@ -161,6 +161,9 @@
       "source_code_link": "https://github.com/saifsafsf/Maven-Works-Dashboard"
     }
   ],
+  "intro":{
+    "para":"my introduction paragraph"
+  },
   "profile": {
     "name": "typicode"
   }
