@@ -162,7 +162,9 @@
     }
   ],
   "intro":[
-    "para":"my introduction paragraph"
+    {
+      "para":"my introduction paragraph"
+    }
   ],
   "profile": {
     "name": "typicode"
